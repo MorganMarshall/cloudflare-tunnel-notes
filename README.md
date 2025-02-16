@@ -1,4 +1,4 @@
-# Cloudflare tunnel notes
+## Cloudflare tunnel notes
 
 ### How to Secure New Cloudflare Tunnel Endpoints?
 
